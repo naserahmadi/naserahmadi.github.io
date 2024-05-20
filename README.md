@@ -2,9 +2,7 @@
 
 **Data Scientist specializing in Natural Language Processing**
 
-[Email](mailto:ahmadi.naser68@gmail.com) | 
-[LinkedIn](https://www.linkedin.com/in/naser-ahmadi-ab028419a/) | 
-[Github](https://github.com/naserahmadi) | 
+[Email](mailto:ahmadi.naser68@gmail.com) | [LinkedIn](https://www.linkedin.com/in/naser-ahmadi-ab028419a/) | [Github](https://github.com/naserahmadi) | (Scholar)[https://scholar.google.com/citations?user=wk5Hb14AAAAJ&hl=en]
 
 ---
 
