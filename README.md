@@ -60,7 +60,3 @@ I am a Data Scientist with a strong focus on Natural Language Processing (NLP) a
 - **Mining expressive rules in knowledge graphs**, JDIQ 2020.
 - **Rulehub: A public corpus of rules for knowledge graphs**, JDIQ 2020.
 - **Explainable Fact Checking with Probabilistic Answer Set Programming**, TTO 2019.
-
-## Contact
-
-Feel free to reach out to me via email at [ahmadi.naser68@gmail.com](mailto:ahmadi.naser68@gmail.com) or connect with me on [LinkedIn](your_linkedin_profile).
