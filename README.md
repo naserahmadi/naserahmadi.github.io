@@ -34,8 +34,12 @@ I am a Data Scientist with a strong focus on Natural Language Processing (NLP) a
 ### A RAG-based digital assistant for customer support
 In this project, I developed an advanced Retrieval-Augmented Generation (RAG) Chatbot that integrates a Knowledge Base (KB) with a powerful Large Language Model (LLM). The implementation leveraged Ollama and Langchain for LLM calling and KB implamantations. I applied prompt engineering techniques to improve the quality of interactions with the LLM, ensuring the chatbot's responses were coherent and precise. I incorporated a re-ranker mechanism that prioritizes the most pertinent information from the Knowledge Base before generating the final response. The project also employed a Vector Database (ChromaDB) to efficiently manage and retrieve high-dimensional data, crucial for the real-time processing capabilities of the chatbot. 
 
+![Picture1](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/f4908556-968a-4827-a063-4032bb0c1c8d)
+
+### ALLEF: A Large Language Model for Farsi
 
 
+![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/3d4f963d-6c08-4159-914a-c7e62b231910)
 
 
 
