@@ -12,6 +12,29 @@
 
 I am a Data Scientist with a strong focus on Natural Language Processing (NLP) and extensive experience in developing and implementing machine learning models. My expertise includes working with state-of-the-art technologies in various NLP fields such as ChatBots, Question Answering, Summarization, and more.
 
+## Education
+- Ph.D., Data Science | Sorbonne University (_Jan 2022_)								       		
+- M.S., Computer Engineering	| The University of Tehran (_Sep 2016_)	 			        		
+- B.S., Computer Engineering | Shiraz University of Technology (_Sep 2012_)
+
+
+## Work Experiences
+
+**NLP Data Scientist @ Hamrah-e-Avval (MCI), Tehran (_Jan 2022 – Present_)**
+- Developed a large language model for Persian language
+- Created a custom chatbot using LangChain and OpenAI API
+- Implemented a multi-document summarization model based on mBart and Vespa
+- Developed question generation and answering models
+- Designed a knowledge graph and a Top Stories Suggestion module
+- Developed search engine web graph and page/domain quality algorithms
+
+**Part-time Data Scientist @ KPMG, Berlin (_Oct 2018 – Jan 2022_)**
+- Created an Audit Knowledge graph
+- Worked on relation extraction in structured documents
+- Developed methods for Text to Structured Text Matching
+- Implemented topic modeling for audit texts
+
+
 ## Technical Skills
 
 - **Data Science**: Machine Learning, Deep Learning, NLP, Knowledge Graphs, Graph Neural Networks, Data Analysis, and Visualization
@@ -26,35 +49,6 @@ I am a Data Scientist with a strong focus on Natural Language Processing (NLP) a
 - **Additional Skills**: Design Patterns, Test-driven Development, Object Oriented Programming, Restful Services
 - **Operating Systems**: Ubuntu, Windows
 
-## Selective Work Experiences
-
-### Hamrah-e-Avval (MCI), Tehran, Iran
-**Data Scientist (Jan 2022 – Present)**
-- Developed a large language model for Persian language
-- Created a custom chatbot using LangChain and OpenAI API
-- Implemented a multi-document summarization model based on mBart and Vespa
-- Developed question generation and answering models
-- Designed a knowledge graph and a Top Stories Suggestion module
-- Developed search engine web graph and page/domain quality algorithms
-
-### KPMG, Berlin, Germany
-**Data Scientist, Part-time (Oct 2018 – Jan 2022)**
-- Created an Audit Knowledge graph
-- Worked on relation extraction in structured documents
-- Developed methods for Text to Structured Text Matching
-- Implemented topic modeling for audit texts
-
-## Education
-
-- **Ph.D. in Data Science**, Sorbonne University, France (Oct 2018 – Dec 2021)
-  - Thesis: A Framework for the Continuous Creation of a Knowledge Base System
-  - Supervisor: Dr. Paolo Papotti
-- **M.Sc. in Software Engineering**, University of Tehran, Iran (Sep 2013 – Sep 2016)
-  - Thesis: Fraud Detection in Electronic Transactions using Multi-dimensional Social Network Analysis
-  - Supervisor: Dr. MahmoudReza Hashemi
-- **B.Sc. in Software Engineering**, Shiraz University of Technology, Iran (Sep 2008 – Sep 2012)
-  - Thesis: Proposing an Open Source Solution for Organizations Based on Evaluation and Comparison of Existing Organizational Open Source Software
-  - Supervisor: Dr. Raouf Khayami
 
 ## Publications
 
