@@ -4,7 +4,7 @@
 
 ![Profile Image](link_to_your_profile_image)
 
-[Email](mailto:ahmadi.naser68@gmail.com) | [LinkedIn]([your_linkedin_profile](https://www.linkedin.com/in/naser-ahmadi-ab028419a/)) | [Github](https://github.com/naserahmadi) | [Personal Website](naserahmadi.github.io)
+[Email](mailto:ahmadi.naser68@gmail.com) | [LinkedIn]((https://www.linkedin.com/in/naser-ahmadi-ab028419a/)) | [Github](https://github.com/naserahmadi) | [Personal Website](naserahmadi.github.io)
 
 ---
 
