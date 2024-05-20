@@ -39,9 +39,23 @@ In this project, I developed an advanced Retrieval-Augmented Generation (RAG) Ch
 ### ALLEF: A Large Language Model for Farsi
 
 
-![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/3d4f963d-6c08-4159-914a-c7e62b231910)
+![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/cc85a7d9-d23a-4f0b-8180-1750c4ded8c8)
 
 
+### Multi Text Summarization
+
+
+![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/bc3674f5-29cb-417e-9c05-9b7984b0a89b)
+
+
+### Question Answering
+
+![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/198d934e-4f91-47c8-af04-6cedb76ccb6a)
+
+
+### A Persian Knowledge graph
+
+![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/1aa1af84-fcca-4a4c-afd9-083bddf5dd80)
 
 ## Technical Skills
 
