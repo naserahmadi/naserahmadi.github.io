@@ -1,4 +1,3 @@
-# naserahmadi.github.io
 # NLP Data Scientist
 
 ## Education
