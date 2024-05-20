@@ -4,7 +4,9 @@
 
 ![Profile Image](link_to_your_profile_image)
 
-[Email](mailto:ahmadi.naser68@gmail.com) | [LinkedIn](https://www.linkedin.com/in/naser-ahmadi-ab028419a/) | [Github](https://github.com/naserahmadi) | [Personal Website](naserahmadi.github.io)
+[Email]![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/f25fc824-3776-4c2c-bc62-fd3644861264)(mailto:ahmadi.naser68@gmail.com) | 
+[LinkedIn]![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/dacd98d2-eadd-4741-9ab5-395e0c6c6d2d)(https://www.linkedin.com/in/naser-ahmadi-ab028419a/) | 
+[Github]![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/54288f85-9d2d-485f-8dd8-4bb67d265a37)(https://github.com/naserahmadi) | 
 
 ---
 
