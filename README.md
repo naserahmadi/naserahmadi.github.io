@@ -45,7 +45,7 @@ In this project, I developed an advanced Retrieval-Augmented Generation (RAG) Ch
 ### Multi Text Summarization
 
 
-![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/bc3674f5-29cb-417e-9c05-9b7984b0a89b)
+![image](https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/6a851077-7bdf-4bae-878c-297feacfbfc9)
 
 
 ### Question Answering
