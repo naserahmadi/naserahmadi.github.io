@@ -12,24 +12,24 @@ I'm a Data Scientist with a PhD in Artificial Intelligence from Sorbonne Univers
 
 
 ## Work Experiences
-**NLP Data Scientist @ OKRA, Leiden (_Jan2025 - Present)**
+**NLP Data Scientist @ OKRA, Leiden (_Jan2025_ - _Present_)**
 - Implemented advanced NLP solutions such as summarization and semantic search for medical data,
 using LLMs.
 - Developed a RAG-based question answering system, combining expert insights from medical records.
 
-**Postdoc @ Aarhus University, Aarhus (_Aug 2024, Jan 2025_)**
+**Postdoc @ Aarhus University, Aarhus (_Aug 2024_, _Jan 2025_)**
 - Led a six-month research project on leveraging LLMs for systematic literature reviews in software engineering.
 - Created a comprehensive data set of 100 research papers and applied advanced LLM techniques, including
 Chain-of-Thought (COT), Self-consistency, and retrieval-augmented generation (RAG) methods.
 
-**Lead Data Scientist @ SystemGroup, Tehran (_Mar 2024 - Aug 2024_)**
+**Lead Data Scientist @ SystemGroup, Tehran (_Mar 2024_ - _Aug 2024_)**
 - Led design and development of a digital assistant featuring QA and report generation capabilities.
 - Engineered RAG-based QA system and Text2SQL model, fine-tuning open-source LLMs for Persian
 language queries.
 - Created comprehensive training and testing datasets, driving accuracy and reliability of the digital
 assistant.
 
-**Lead Data Scientist @ Hamrah-e-Avval (MCI), Tehran (_Jan 2022 – Mar 2024_)**
+**Lead Data Scientist @ Hamrah-e-Avval (MCI), Tehran (_Jan 2022_ – _Mar 2024_)**
 - Continual pre-training of open source LLMs to enhance Persian language understanding.
 - Developed a production-grade FAQ chatbot managing interactions with 1 million monthly users.
 - Led design of a knowledge graph for a Persian search engine, enabling natural language queries with
@@ -37,7 +37,7 @@ real-time infobox generation, serving 100 queries per second.
 - Improved search systems by implementing advanced NLP methods using mBART and mT5, increasing
 search efficiency and user satisfaction.
 
-**Part-time Data Scientist @ KPMG, Berlin (_Oct 2018 – Jan 2022_)**
+**Part-time Data Scientist @ KPMG, Berlin (_Oct 2018_ – _Jan 2022_)**
 - Created an Audit Knowledge graph
 - Worked on relation extraction in structured documents
 - Developed methods for Text to Structured Text Matching
