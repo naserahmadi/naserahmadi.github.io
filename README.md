@@ -7,9 +7,9 @@ I'm a Data Scientist with a PhD in Artificial Intelligence from Sorbonne Univers
 ---
 
 ## Education
-- **Ph.D., Data Science** | Sorbonne University (_Jan 2022_)
-- **M.S., Computer Engineering**	| The University of Tehran (_Sep 2016_)
-- **B.S., Computer Engineering** | Shiraz University of Technology (_Sep 2012_)
+- **Ph.D., Data Science**, Sorbonne University (_Jan 2022_)
+- **M.S., Computer Engineering**, The University of Tehran (_Sep 2016_)
+- **B.S., Computer Engineering**, Shiraz University of Technology (_Sep 2012_)
 
 ---
 
