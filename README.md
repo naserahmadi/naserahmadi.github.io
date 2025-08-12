@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Data Scientist with a PhD in Artificial Intelligence from Sorbonne University, specializing in NLP. My focus is on applying state-of-the-art technologies, such as transformers, to a range of NLP tasks, including chatbots, question-answering, and summarization. I also work on graph analysis, knowledge graphs, and other areas of data science, bringing together academic research and hands-on experience.
+I'm a Data Scientist with a PhD in Artificial Intelligence from Sorbonne University, specializing in NLP. I focus on applying state-of-the-art technologies like transformers across a range of NLP tasks, including chatbots, question answering, and summarization. I also work on graph analysis, knowledge graphs, and other areas of data science, bringing together academic research and hands-on experience.
 
 ---
 
