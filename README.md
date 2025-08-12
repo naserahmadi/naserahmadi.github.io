@@ -81,35 +81,35 @@ In parallel, I created comprehensive training and testing datasets tailored to P
 ### A RAG-based for customer support
 In this project, I developed an advanced Retrieval-Augmented Generation (RAG) Chatbot that integrates a Knowledge Base (KB) with a powerful Large Language Model (LLM). The implementation leveraged Ollama and Langchain for LLM calling and KB implamantations. I applied prompt engineering techniques to improve the quality of interactions with the LLM, ensuring the chatbot's responses were coherent and precise. I incorporated a re-ranker mechanism that prioritizes the most pertinent information from the Knowledge Base before generating the final response. The project also employed a Vector Database (ChromaDB) to efficiently manage and retrieve high-dimensional data, crucial for the real-time processing capabilities of the chatbot. 
 <br>
-<img alt="Picture1" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/f4908556-968a-4827-a063-4032bb0c1c8d" style="width: 100%;" />
+<img alt="Picture1" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/f4908556-968a-4827-a063-4032bb0c1c8d" style="width: 70%;" />
 
 ### ALLEF: A Large Language Model for Farsi
 I contributed to the development of ALLEF, a large language model (LLM) for Persian, by performing continual pre-training on LLaMA-1 and LLaMA-2 models to improve their understanding of the Persian language. The process began with the creation of a high-quality Persian corpus, which involved collecting large-scale text data from diverse sources, cleaning, normalizing, and deduplicating it to ensure both linguistic richness and consistency. We extended the tokenizer to better handle Persian morphology and vocabulary before initiating continual pre-training on the prepared corpus.
 <br><br>
 Following the language modeling phase, we conducted instruction fine-tuning to align the model with user-intent tasks such as question answering, summarization, and classification. To support this, we designed and annotated a Persian instruction dataset, with native speakers verifying both the training and test splits for quality and relevance. This pipeline significantly improved the model’s performance in downstream NLP tasks, positioning ALLEF as a foundational LLM for high-quality Persian-language applications.
 <br>
-<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/cc85a7d9-d23a-4f0b-8180-1750c4ded8c8" style="width: 100%;" />
+<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/cc85a7d9-d23a-4f0b-8180-1750c4ded8c8" style="width: 70%;" />
 
 ### Multi Text Summarization
 I designed and implemented a multi-text summarization pipeline to generate concise, query-focused summaries from multiple retrieved documents. After identifying the most relevant text chunks using semantic embeddings—computed during the retrieval phase for a given query—the system aggregated these chunks and passed them to a fine-tuned mBART model specifically trained for summarization in Persian.
 <br><br>
 This allowed the system to produce coherent and context-aware summaries that distilled key information from multiple sources into a single, unified response. The approach was particularly effective for queries requiring information synthesis across diverse documents, enhancing the user’s ability to grasp the core message without reading through each page. This summarization module complemented the QA and infobox components, providing a more comprehensive and intelligent search experience.
 <br>
-<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/6a851077-7bdf-4bae-878c-297feacfbfc9" style="width: 100%;" />
+<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/6a851077-7bdf-4bae-878c-297feacfbfc9" style="width: 70%;" />
 
 ### Question Answering
 I developed an extractive question answering (QA) system tailored for Persian by fine-tuning an XLM-RoBERTa model on domain-specific QA datasets. The goal was to enhance user interaction by highlighting the most relevant text spans directly within the top-ranked search results. For each natural language query, the system retrieved a ranked list of relevant documents using semantic search, then applied the fine-tuned QA model to extract the most probable answer spans from those documents.
 <br><br>
 This approach enabled users to quickly identify the information they were seeking without needing to open each result individually. The system integrated seamlessly with the search engine, displaying highlighted answers within snippets of the top results, significantly improving the search experience by making it more informative and efficient. The multilingual capabilities of XLM-RoBERTa also ensured better generalization across diverse Persian language sources.
 <br>
-<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/198d934e-4f91-47c8-af04-6cedb76ccb6a" style="width: 100%;" />
+<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/198d934e-4f91-47c8-af04-6cedb76ccb6a" style="width: 70%;" />
 
 ### A Persian Knowledge graph
 I led the design and development of a knowledge graph (KG) powering a Persian-language search engine, enabling users to issue natural language queries and receive real-time infoboxes alongside relevant news updates. The system was built to serve over 100 queries per second with low latency. I fine-tuned a BERT-based language model on Persian text for semantic search, allowing the system to understand user intent and retrieve relevant entities from the KG. Vespa was used as the vector database for fast similarity search over embedded queries.
 <br><br>
 The KG itself was constructed by crawling and processing structured and unstructured content from Persian Wikipedia and the broader Persian web. Entities, relationships, and factual attributes were extracted and stored in a versioned format within Cassandra for fast retrieval. Additionally, I implemented a news extraction pipeline that continuously crawled Persian news websites to link the most recent articles to their corresponding entities in the KG. On each user query, the system returned both the entity infobox and a curated list of the most recent news, enabling a dynamic and informative search experience in Persian.
 <br>
-<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/1aa1af84-fcca-4a4c-afd9-083bddf5dd80" style="width: 100%;" />
+<img alt="image" src="https://github.com/naserahmadi/naserahmadi.github.io/assets/45039751/1aa1af84-fcca-4a4c-afd9-083bddf5dd80" style="width: 70%;" />
 
 ---
 
